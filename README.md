@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 [![Mugdha Malpe GitHub Stats](https://github-readme-stats.vercel.app/api?username=mugdhamalpe&show_icons=true&count_private=true)](https://github.com/mugdhamalpe)
 
-<img height="180" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugdhamalpe" alt="mugdhamalpe" style="max-width: 100%;">
+<src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugdhamalpe" alt="mugdhamalpe" style="max-width: 100%;">
 
 
 <h3> 🤝🏻 Connect with Me </h3>
