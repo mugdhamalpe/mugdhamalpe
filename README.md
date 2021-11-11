@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 [![Mugdha Malpe GitHub Stats](https://github-readme-stats.vercel.app/api?username=mugdhamalpe&show_icons=true&count_private=true)](https://github.com/mugdhamalpe)
 
-[(https://github-readme-stats.vercel.app/api/top-langs/?username=mugdhamalpe)](https://github.com/mugdhamalpe)
+<img src="https://camo.githubusercontent.com/0b3965f847b29d4aa532ffecb5282341b0d2b8618d366c09b9c7665732fe84b9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6d75676468616d616c70652673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565" alt="Mugdha Malpe GitHub Stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=mugdhamalpe&amp;show_icons=true&amp;count_private=true" style="max-width: 100%;">
 
 
 <h3> 🤝🏻 Connect with Me </h3>
