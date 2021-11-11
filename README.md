@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugdhamalpe" alt="Mugdha Malpe GitHub Stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugdhamalpe" style="max-width: 100%;">
 
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> Connect with Me </h3>
 
 <p align="center">
 <a href="https://mugdhamalpe.github.io/mycreations/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-mycreations-yellow?style=flat&logo=google-chrome"></a>
