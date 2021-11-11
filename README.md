@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 <div>
  <p>
-I'm 2nd year student at Pune Institute of Computer Technology and currently pursuing Bachelor of Engineering degree in Computer Engineering.
+- I'm 2nd year student at Pune Institute of Computer Technology and currently pursuing Bachelor of Engineering degree in Computer Engineering.
   
-I'm currently exploring the web development domain, along with a bit of CP.
+- I'm currently exploring the web development domain, along with a bit of CP.
   
-My non-technical interests include painting canvases and writing poetries.
+- My non-technical interests include painting canvases and writing poetries.
   
 </p>
 </div>
