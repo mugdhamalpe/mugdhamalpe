@@ -51,6 +51,6 @@ Here are some ideas to get you started:
 <p>
 <a href="https://mugdhamalpe.github.io/mycreations/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-mycreations-yellow?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/mugdha-malpe-421147213/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@mugdhamalpe-blue?style=flat&logo=linkedin"></a>
-<a href="https://www.instagram.com/_mugdhamalpe_/" target="_blank"><img alt="instagram" src="https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram"></a>
-<a href="https://open.spotify.com/user/1uep5hk2uyewzcepbs8lm10b3?si=a069863c6fb64549"><img alt="spotify" src="https://img.shields.io/badge/Spotify-mugdhaaa-green?style=flat&logo=spotify"></a>
+<!-- <a href="https://www.instagram.com/_mugdhamalpe_/" target="_blank"><img alt="instagram" src="https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram"></a>
+<a href="https://open.spotify.com/user/1uep5hk2uyewzcepbs8lm10b3?si=a069863c6fb64549"><img alt="spotify" src="https://img.shields.io/badge/Spotify-mugdhaaa-green?style=flat&logo=spotify"></a> -->
 </p>
