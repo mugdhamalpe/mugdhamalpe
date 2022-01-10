@@ -39,12 +39,15 @@ Here are some ideas to get you started:
 
 
 ### Github Stats
-https://github-readme-streak-stats.herokuapp.com/?user=mugdhamalpe&theme=tokyonight_duo
+
+<img height = "180" width = "auto" src="https://github-readme-streak-stats.herokuapp.com/?user=mugdhamalpe" alt="mugdhamalpe" />
+
 [![Mugdha Malpe GitHub Stats](https://github-readme-stats.vercel.app/api?username=mugdhamalpe&show_icons=true&count_private=true)](https://github.com/mugdhamalpe)
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugdhamalpe" alt="Mugdha Malpe GitHub Stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugdhamalpe" style="max-width: 100%;">
 
+<a href="https://github.com/mugdhamalpe/"><img alt="Mugdha Malpe's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mugdhamalpe" /></a>
 
 <h3> Connect with Me </h3>
 
