@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugdhamalpe" alt="Mugdha Malpe GitHub Stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugdhamalpe" style="max-width: 100%;">
 
-<a href="https://github.com/mugdhamalpe/"><img alt="Mugdha Malpe's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mugdhamalpe" /></a>
+<a href="https://github.com/mugdhamalpe/"><img alt="Mugdha Malpe's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mugdhamalpe&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <h3> Connect with Me </h3>
 
