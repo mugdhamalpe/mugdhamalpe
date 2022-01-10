@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 
 ### Github Stats
-
+https://github-readme-streak-stats.herokuapp.com/?user=mugdhamalpe&theme=tokyonight_duo
 [![Mugdha Malpe GitHub Stats](https://github-readme-stats.vercel.app/api?username=mugdhamalpe&show_icons=true&count_private=true)](https://github.com/mugdhamalpe)
 
 
