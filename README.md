@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <div>
  <p>
   
-- I'm a final year student at Pune Institute of Computer Technology and currently pursuing Bachelor of Engineering degree in Computer Engineering.
+- I'm a graduate from Pune Institute of Computer Technology currently working as a Software Engineer at PubMatic. 
 
 </p>
 </div>
